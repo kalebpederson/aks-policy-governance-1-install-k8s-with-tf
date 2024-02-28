@@ -1,0 +1,16 @@
+# IDE files
+.idea
+.vs
+
+# Terraform files
+.terraform*
+terraform.tfstate*
+
+# temporary files
+*.swp
+*.swo
+*.swn
+
+# files that shouldn't be checked in
+*.log
+.local.tfvars
